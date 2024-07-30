@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 👨‍💻 Programador Sênior Java EE / Python | Tech Lead de Inteligência Artificial
+
 💡 Explorando machine learning e IA generativa
+
 🔧 Criando soluções inovadoras e eficientes com Python
 
 <div align="center">
