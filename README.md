@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👨‍💻 Programador Sênior Java EE / Python | Tech Lead de Inteligência Artificial
+👨‍💻 **Senior Python Developer | AI Tech Lead**
 
-💡 Explorando machine learning e IA generativa
+💡 Exploring machine learning and generative AI
 
-🔧 Criando soluções inovadoras e eficientes com Python
+🔧 Building innovative and efficient solutions with Python
 
 <div align="center">
   <a href="https://github.com/josielborges">
