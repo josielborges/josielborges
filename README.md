@@ -1,5 +1,9 @@
 ### Hi there 👋
-## Olá eu sou o Josiel Borges, Tech lead e programador fullstack Java EE!
+
+👨‍💻 Programador Sênior Java EE / Python | Tech Lead de Inteligência Artificial
+💡 Explorando machine learning e IA generativa
+🔧 Criando soluções inovadoras e eficientes com Python
+
 <div align="center">
   <a href="https://github.com/josielborges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josielborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
