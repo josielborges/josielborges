@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 **Senior Python Developer | AI Tech Lead**
+👨‍💻 **Senior Java EE / Python Developer | AI Tech Lead**
 
 💡 Exploring machine learning and generative AI
 
